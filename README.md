@@ -1,0 +1,2 @@
+# Used_Cars_Price_Prediction-Using-Linear-Regression-ML-
+The project involved extensive data cleaning,feature engineering,exploratorydata  analysis (EDA), Collected and preprocessed a dataset ofused carsusing Pandas and NumPy,handling missing values,  duplicates,  and categorical variables.Using skewness and kurtosis,OutliersDetection by using IQR method, Trained and evaluated multiple regression models
